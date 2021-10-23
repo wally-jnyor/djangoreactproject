@@ -3,6 +3,7 @@ const API_URL = 'http://localhost:8000';
 
 export default class CustomersService{
 
+    // eslint-disable-next-line no-useless-constructor
     constructor(){}
 
 
